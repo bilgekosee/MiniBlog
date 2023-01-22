@@ -1,4 +1,10 @@
-# blog
+# Mini bir blog sitesi
+
+*mini blog website*
+
+## Siteye ulaşmak için bağlantıya tıklayın
+*Click the link to access the site*
+# https://myminiblog.netlify.app/
 
 ## Project setup
 ```
