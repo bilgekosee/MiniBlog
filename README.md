@@ -1,4 +1,4 @@
-# Mini bir blog sitesi
+# Mini blog web sitesi
 
 *mini blog website*
 
